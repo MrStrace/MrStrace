@@ -10,7 +10,6 @@
 
 <br />
 <br />
---- 
 
 ### The Languages and Tools i use:
 
@@ -27,7 +26,6 @@
 
 <br />
 <br />
----
 <br />
 
 ### :zap: GitHub Stats

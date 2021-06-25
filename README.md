@@ -1,7 +1,4 @@
 ### Hello world, I'm Jason - aka [MrStrace][website] 👋
-
-[![Website](https://www.spigotmc.org/resources/twings-create-your-own-particle-wings.82088/)]
-
 ## I'm a Java Developer loving to work in a 3D world!
 
 - 🌱 I’m currently doing an apprenticeship.
@@ -12,6 +9,8 @@
 [<img align="left" alt="MrStrace | Discord" width="124px" src="https://strace.dev/discord.svg"/>][discord]
 
 <br />
+<br />
+--- 
 
 ### The Languages and Tools i use:
 
@@ -28,8 +27,10 @@
 
 <br />
 <br />
+---
+<br />
 
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
   <img align="left" alt="MrStrace's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrStrace&show_icons=true&hide_border=true" />
 
 [website]: https://strace.dev

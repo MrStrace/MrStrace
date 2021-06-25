@@ -9,10 +9,7 @@
 - ⚡ I'm very happy how TWINGS turned out till now!
 
 ### Connect with me:
-
-[<img align="left" alt="Strace.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="MrStrace | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="MrStrace | Discord" width="22px" src="https://strace.dev/discord.svg"/>][discord]
+[<img align="left" alt="MrStrace | Discord" width="124px" src="https://strace.dev/discord.svg"/>][discord]
 
 <br />
 
